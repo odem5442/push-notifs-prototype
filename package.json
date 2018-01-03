@@ -1,0 +1,19 @@
+{
+  "name": "push-notifs-prototype",
+  "version": "1.0.0",
+  "description": "trying out aws sns using node.js ",
+  "main": "push.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odem5442/push-notifs-prototype.git"
+  },
+  "author": "Daya Nune",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odem5442/push-notifs-prototype/issues"
+  },
+  "homepage": "https://github.com/odem5442/push-notifs-prototype#readme"
+}

@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/odem5442/push-notifs-prototype/issues"
   },
-  "homepage": "https://github.com/odem5442/push-notifs-prototype#readme"
+  "homepage": "https://github.com/odem5442/push-notifs-prototype#readme",
+  "dependencies": {
+    "aws-sdk": "^2.176.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "yargs": "^10.0.3"
+  }
 }
